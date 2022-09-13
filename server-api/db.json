@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "1079a6cf-3808-4aa6-a31e-49e3c5fd52d6",
+      "name": "nikhil bhardwaj",
+      "email": "nikhil@mail.com"
+    },
+    {
+      "id": "0332b3c9-9850-4122-9074-6a22e4c8fc1a",
+      "name": "gemini hello",
+      "email": "gemini@mail.com"
+    },
+    {
+      "id": "b02472d3-945f-459c-b389-9200b1ccea93",
+      "name": "Suresh",
+      "email": "suresh@mail.com"
+    }
+  ]
+}
